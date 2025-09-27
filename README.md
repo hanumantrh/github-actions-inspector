@@ -1,5 +1,3 @@
-# github-actions-inspector
-
 name: Github Action Managed Server Explore
 
 on:
